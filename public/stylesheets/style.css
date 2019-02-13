@@ -8,6 +8,11 @@ a {
   font-size: 24px;
 }
 
+.link-to-edit-add {
+  font-size: 18px;
+  color: blue;
+}
+
 #delete-form {
   display: inline-block;
   margin-right: 10px;
